@@ -1,0 +1,12 @@
+Create-Request-Token
+Create-Session
+Create-Session-With-Login
+Create-Guest-Session
+Get-Movie-Certifications
+Get-TV-Certifications
+Get-Movie-Change-List
+Get-TV-Change-List
+Get-Person-Change-List
+TestSuite1_Authentication
+TestSuite2_Certification
+TestSuite-3_Changes

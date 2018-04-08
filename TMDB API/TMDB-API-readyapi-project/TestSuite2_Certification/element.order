@@ -1,0 +1,6 @@
+TestCase1_GetMovieCertification_WithValidApi_Key.xml
+TestCase-2_GetMovieCertification_WithInvalidApi_Key.xml
+TestCase-3_GetMovieCertification_With-Invalid-Resource-Code.xml
+TestCase-3_Get-TV-Certifications_WithValidApi.xml
+TestCase-4_Get-TV-Certifications_WithInvalidApi.xml
+TestCase-6_Get-TV-Certifications_With-Invalid-Resource-Code.xml

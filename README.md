@@ -1,2 +1,2 @@
-# SoFi_TMDB_API_Project
-SoFi_TMDB_API_Project
+# SoFi
+Sofi_Assessment

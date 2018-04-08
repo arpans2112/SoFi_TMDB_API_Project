@@ -1,0 +1,9 @@
+TestCase-1_Get-Movie-Change-List.xml
+TestCase--2_Get-Movie-Change-List_WithInvalidApiKey.xml
+TestCase--3_Get-Movie-Change-List_Withinvalidresource.xml
+TestCase-4_Get-TV-Change-List-with-Valid-Api-Code.xml
+TestCase-5_Get-TV-Change-List-with-Invalid-Api-Code.xml
+TestCase-6_Get-TV-Change-List-with-Invalid-Resource-Code.xml
+TestCase-7_Get-Person-Change-List_With-Valid-API-Key.xml
+TestCase-8_Get-Person-Change-List_With-Invalid-API-Key.xml
+TestCase-9_Get-Person-Change-List_With-Invalid-Resource.xml
