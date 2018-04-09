@@ -1,0 +1,1 @@
+"C:\Program Files\SmartBear\ReadyAPI-2.3.0\bin\testrunner.bat" -a -j -J "-fD:\Companies Preparations\SoFi_TMDB_API_Project\SoFi_TMDB_API_Project\Reports" "-RJUnit-Style HTML Report" "-EDefault environment" "D:\Companies Preparations\Sofi_Assessment\SoFi\TMDB API\TMDB-API-readyapi-project"

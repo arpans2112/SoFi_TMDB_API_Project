@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:soapui-workspace name="TMDB API" cid="200b886d-fdb3-4b0c-9694-f9acaaf82dd9" soapui-version="6.0.0" xmlns:con="http://eviware.com/soapui/config">
   <con:settings/>
-  <con:project name="TMDB_API_Interfaces" lastOpened="2018-04-07T23:40:26.848-06:00">D:/Companies Preparations/Sofi_Assessment/SoFi/TMDB API/TMDB-API-readyapi-project</con:project>
+  <con:project name="TMDB_API_Interfaces" lastOpened="2018-04-08T21:30:12.612-06:00">D:/Companies Preparations/SoFi_TMDB_API_Project/SoFi_TMDB_API_Project/TMDB API/TMDB-API-readyapi-project</con:project>
   <con:recentItemCollection>
     <con:moduleId>ProjectsModule</con:moduleId>
     <con:itemId>edcceef0-f2e4-409f-bd5d-24fa1940f659</con:itemId>
@@ -50,7 +50,7 @@
     </con:expandNodeState>
     <con:expandNodeState>
       <con:id>73f3bb20-7dbd-490b-b358-9550ce3b7aa3</con:id>
-      <con:expandState>false</con:expandState>
+      <con:expandState>true</con:expandState>
     </con:expandNodeState>
     <con:expandNodeState>
       <con:id>7b4151c5-3128-48e2-8e7c-27a4ccd18e19</con:id>
@@ -74,7 +74,7 @@
     </con:expandNodeState>
     <con:expandNodeState>
       <con:id>25d71027-3154-4bdf-954c-581fc953cb70</con:id>
-      <con:expandState>false</con:expandState>
+      <con:expandState>true</con:expandState>
     </con:expandNodeState>
     <con:expandNodeState>
       <con:id>1751453e-e092-4125-b545-dfe7d596844e</con:id>
@@ -333,7 +333,11 @@
           <con:mode>
             <con:today>true</con:today>
           </con:mode>
-          <con:filter/>
+          <con:filter>
+            <con:failed>true</con:failed>
+            <con:passed>true</con:passed>
+            <con:unknown>true</con:unknown>
+          </con:filter>
         </con:settings>
       </con:dashboardTile>
       <con:dashboardTile tileId="31047521-03eb-4dbd-9d91-d785d2aca8af" tileType="TEST_CASE_STATUS_TILE">
@@ -341,7 +345,11 @@
           <con:mode>
             <con:today>true</con:today>
           </con:mode>
-          <con:filter/>
+          <con:filter>
+            <con:failed>true</con:failed>
+            <con:passed>true</con:passed>
+            <con:unknown>true</con:unknown>
+          </con:filter>
         </con:settings>
       </con:dashboardTile>
       <con:dashboardTile tileId="826b3528-cdba-4c6b-8f84-f57e9b77e911" tileType="SECURE_TILE">
@@ -359,7 +367,11 @@
             <con:today>true</con:today>
           </con:mode>
           <con:project>All Projects</con:project>
-          <con:filter/>
+          <con:filter>
+            <con:avg>true</con:avg>
+            <con:duration>true</con:duration>
+            <con:failures>true</con:failures>
+          </con:filter>
         </con:settings>
       </con:dashboardTile>
       <con:dashboardTile tileId="243defd5-517f-4b9a-bcf8-fa742696a095" tileType="SERVICEV">
@@ -370,6 +382,9 @@
             <con:column>Location</con:column>
             <con:column>Port</con:column>
           </con:tableSettings>
+          <con:searchSettings>
+            <con:searchType>All</con:searchType>
+          </con:searchSettings>
         </con:settings>
       </con:dashboardTile>
     </con:dashboardTiles>
